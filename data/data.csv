@@ -1,0 +1,78 @@
+Indicator,Province 1,Province 2,Province 3,Province 4,Province 5,Province 6,Province 7,Total
+Estimated number of live births,109264,128646,132925,58670,111693,38238,63901,643337
+Estimated number less than 1 year old,105738,124498,129311,56913,108091,37003,61840,623394
+Estimated number less than 2 years old,208171,254535,262470,108708,212603,74423,121711,1242621
+Estimated number less than 5 years old,495671,619384,636059,253948,505950,179486,289739,2980237
+Estimated adolescent population (10-19),1026660,1281644,1316264,529476,1045100,371390,600131,6170665
+Estimated female population (15-49),1417558,1669007,1724540,760889,1449882,495531,829040,8346447
+Estimated female population (15-49):married ,1074509,1265107,1307202,576754,1099011,375612,628412,6326607
+Estimated female population (15-49):pregnant,128849,151705,156752,69186,131713,45092,75355,758652
+Live births as % of total population,2.2,2.1,1.9,2.9,1.9,3.8,2.1,2.1
+Pregnant women as % of total population,2.6,2.5,2.2,3.5,2.2,4.5,2.5,2.5
+Population less than 1 year old as % of total population,2.1,2.1,1.8,2.8,1.8,3.7,2.1,2.1
+Estimated Population in 2021 (Mill),5,6,7,2,6,1,3,30
+% of population,16.7,20,23.3,6.7,20,3.3,10,
+"Provincial Budget (2019/20, NPR Bill.)",42.2,38.7,47.6,32.1,36.4,34.4,28.2,259.6
+Own source  (NPR Bill.),3.8,3.1,9.3,3.3,4.6,0.2,0.8,25.1
+Revenue Sharing (NPR Bill.),10.3,10.4,10.6,7.7,9.9,7.5,8,64.4
+Fiscal Equalization Grants (NPR Bill.),8.1,7.1,7.6,7.1,7.5,9.9,8,55.3
+Conditional Grants (NPR Bill.),7,7.1,7.5,5.4,7.8,5.3,4.6,44.7
+Borrowing (NPR Bill.),0,1.3,0,2,0,0.8,0,4.2
+Unspent Cash Reserves (NPR Bill.),6.6,7.7,6.8,4.8,5,8.9,4.8,44.7
+% budget for health,2.6,1.6,2,3.2,2.1,6.6,4.3,2.5
+% budget for education,2.2,0.3,1.2,3.1,1.6,3.1,8.6,2.5
+Per Capital Exp (NPR),8440,6450,6800,16050,6066.7,34400,9400,8653.3
+Per Capita Edu Exp (NPR),185.7,19.4,81.6,497.6,97.1,1066.4,808.4,216.3
+Per Capita Hlth Exp (NPR),219.4,103.2,136,513.6,127.4,2270.4,404.2,216.3
+Per Student Edu Exp (NPR),817.2,94.7,401.4,1454,447.8,1803.9,2844,899.6
+Per Capita Fiscal Equalization Grant (NPR),1628.9,1180.4,1088,3547.1,1255.8,9872.8,2650.8,
+% of budget,16.3,14.9,18.3,12.4,14,13.3,10.9, 
+% Stunted,33,37,31,29,38,55,36,36
+% Wasted,12,15,4,6,8,9,10,10
+% Underweight,25,37,15,15,27,37,27,27
+"%Stunted, Underweight & Wasted",5,5,1,0,3,4,5,4
+% mothers with no education,23,56,22,11,29,41,37,34
+% fathers with no education,11,26,11,4,13,10,11,15
+% mothers with low bmi,36,44,29,36,41,44,45,39
+% without health cards,64,77,63,64,59,56,55,68
+% without birth registration,39,55,36,39,43,35,46,44
+% without electricity,18,19,8,11,20,40,18,18
+% delivered at home,36,54,29,30,39,63,32,41
+U5MR,36,52,36,27,45,58,69,39
+IMR,31,43,29,23,42,47,58,32
+% without all basic vaccines,20,35,15,7,21,25,17,22
+Multi dimensional Poverty Rate,19.7,47.9,12.2,14.2,29.9,51.2,33.6,28.6
+HDI,0.6,0.4,0.5,0.5,0.5,0.4,0.4,0.6
+Absolute Poverty Rate,12.4,19.8,15.3,15.5,18.2,28.9,33.9,18.7
+Schools (Number),6742,4042,6911,4311,5698,3190,4161,35055.0des
+Students (Lacs),11.4,12.3,14.2,6.8,13,5.9,8.5,72.1
+GER in ECD/PPCs,88.6,51,99.2,104.4,96.6,68.8,72.6,84.7
+Girls to Boys ratio at lower basic,1,1.1,0.9,0.9,0.9,1.1,1,1
+Girls to Boys ratio at upper basic,1,1,1,1,1,1.1,1.1,1
+% of students appearing for Grade 1 final exam,83.5,87,88.7,88.1,82.7,85.7,86.5,89.7
+Teachers in basic education (1000s),47.8,24.8,60.4,33.3,44.2,15,27,252.5
+Teachers in secondary education (1000s),14.1,5.9,20.8,11.3,11,4,5.9,73
+Teachers per school,9.2,7.6,11.7,10.4,9.7,6,7.9,9.3
+GPI (Teachers) at basic level,0.7,0.4,1.3,1,0.8,0.4,0.5,0.8
+GPI (Teachers) secondary level,0.2,0.1,0.4,0.2,0.2,0.2,0.1,0.2
+GER Secondary Level,63.4,50.5,69.2,70.8,63.4,82.3,76.4,67.7
+Student-Teacher Ratio (basic),18,43,17,14,23,30,24,22
+Student-Teacher Ratio (secondary),20,37,17,17,27,32,33,23
+Repetition Rate (Grade 1),13.4,12.2,11.9,13.4,14.7,13.4,11.2,12.3
+Repetition Rate (Grade 9-10),4.4,2.3,4.5,4.2,3.3,3.6,3.7,3.6
+Number of public hospitals,18,13,33,20,15,12,14,125
+Number of public health care centers,40,32,43,30,24,13,16,198
+Number of public health posts,648,745,640,570,491,336,378,3808
+Number of urban health centers,52,17,110,68,52,18,57,374
+Number of community health centers,49,7,90,47,41,22,43,299
+Other health facilities,9,8,18,6,12,3,3,59
+Total public health facilities,816,822,934,741,635,404,511,4863
+Total private health facilities,136,169,1386,174,101,60,45,2071
+Total health facilities,952,991,2320,915,736,464,556,6934
+"Public hospitals per 10,000 population",3.6,2.2,4.7,10,2.5,12,4.7,4.2
+Pvt. health facilities as % of total,14.3,17.1,59.7,19,13.7,12.9,8.1,29.9
+No. of districts,14,8,13,11,12,10,9,77
+Rural Municipalities/ Gaupalika,88,59,74,58,73,54,54,460
+Municipalities ,46,73,41,26,32,33,25,276
+Metropolitian cities,1,1,3,1,0,0,0,6
+Sub metropolitian cities,2,3,1,0,4,0,1,11
